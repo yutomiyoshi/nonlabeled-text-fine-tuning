@@ -1,5 +1,8 @@
 ## mada
 
+```
+pip install datasets transformers[torch] bitsandbytes peft
+```
 
 ## reference
 
